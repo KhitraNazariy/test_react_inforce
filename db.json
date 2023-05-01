@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "imageUrl": "https://www.liquor.com/thmb/zzY3QbT5h9S9utBkexhECycXZIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-519728153-7dca4b18c59f4b1fa3654e4d5c9db884.jpg",
+      "name": "beer",
+      "count": 1,
+      "size": {
+        "width": 20,
+        "height": 20
+      },
+      "weight": "100g",
+      "comments": [],
+      "id": 6
+    },
+    {
+      "imageUrl": "https://images.news18.com/ibnlive/uploads/2021/09/untitled-design-64.jpg",
+      "name": "beer 2",
+      "count": 4,
+      "size": {
+        "width": 10,
+        "height": 10
+      },
+      "weight": "100g",
+      "comments": [],
+      "id": 7
+    },
+    {
+      "imageUrl": "https://images.news18.com/ibnlive/uploads/2021/09/untitled-design-64.jpg",
+      "name": "sdf",
+      "count": 4,
+      "size": {
+        "width": 10,
+        "height": 10
+      },
+      "weight": "100g",
+      "comments": [],
+      "id": 8
+    }
+  ]
+}
